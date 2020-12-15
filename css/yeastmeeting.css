@@ -20,6 +20,11 @@ body {
     vertical-align: middle; 
 }
 
+a.archive-link:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
 /* .archive-link {text-align:middle;} */
 
 
