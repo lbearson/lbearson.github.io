@@ -49,7 +49,9 @@ section.yeast-title {
 }
 
 section.banner-yeast-title {
-    padding: 1rem;
+    padding-top: 1rem; 
+    padding-bottom: 1rem;
+    padding-right: 1.5rem;
 }
 
 .nav-item {
