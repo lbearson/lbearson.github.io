@@ -92,6 +92,14 @@ letter-spacing: .2em;
     line-height: 2;
 }
 
+.b-location   {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 300;
+    line-height: 2;
+}
+
 .organizers-list {
     padding: 0 2rem;
     line-height:   1.3;
