@@ -113,7 +113,7 @@ letter-spacing: .2em;
     text-align: right;
 }
 
-#banner-header   {
+#b-header   {
     color: #b6dee8;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-size: 3rem;
@@ -130,7 +130,7 @@ letter-spacing: .2em;
     letter-spacing: 2px;
 }
 
-#banner-subhead {
+#b-subhead {
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #d9b2b3;
     font-size: 28px;
