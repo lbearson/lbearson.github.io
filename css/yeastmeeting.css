@@ -113,10 +113,27 @@ letter-spacing: .2em;
     text-align: right;
 }
 
+#banner-header   {
+    color: #b6dee8;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: 200;
+    letter-spacing: 2px;
+    text-align: right;
+}
+
 #subhead {
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #d9b2b3;
     font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+#banner-subhead {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #d9b2b3;
+    font-size: 24px;
     font-weight: 400;
     letter-spacing: 2px;
 }
