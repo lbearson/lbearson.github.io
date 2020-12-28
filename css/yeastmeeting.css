@@ -25,9 +25,6 @@ a.archive-link:hover {
     text-decoration: none;
 }
 
-/* .archive-link {text-align:middle;} */
-
-
 .CSHL-logo {
     margin: 0 40px 0 0;
     opacity:0.6;
@@ -36,15 +33,11 @@ a.archive-link:hover {
 }
 
 .yeast-field {
-    /* margin:2rem; */
 	padding:0;
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-color:#000; 
     text-align:right;
-    /* margin: 4% 5%; 
-    margin-right: auto;
-    margin-left: auto; */
 }
 
 .yeast-field img {
@@ -81,7 +74,6 @@ letter-spacing: .2em;
 .organizers {
 	color: #000;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
-    /* font-weight: 200; */
 	text-align:right;
 	list-style-type: none;
     line-height:   1.5;
@@ -177,3 +169,6 @@ letter-spacing: .2em;
         background-image: url(../img/Yeast-Meeting-art-3.png);    }
 }
 
+.content-container {
+    background-color: white;
+}
