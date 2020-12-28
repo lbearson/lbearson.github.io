@@ -48,6 +48,10 @@ section.yeast-title {
     padding: 2rem;
 }
 
+section.banner-yeast-title {
+    padding: 1rem 2rem;
+}
+
 .nav-item {
     color: #fff;
     font-family: Lato, sans-serif;
